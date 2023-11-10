@@ -9,7 +9,7 @@ This repository contains the main M3U playlist for IPTV channels. The playlist i
 ### How to Use
 
 1. Copy the M3U URL:
-   - Click [here](https://souyking.github.io/m3u-playlist/main-iptv-playlist.m3u) to copy the main playlist URL.
+   - Click [here](https://souyking.github.io/m3u-playlist/souyplaylist.m3u) to copy the main playlist URL.
 
 2. Use with IPTV Players:
    - Open your favorite IPTV player.
