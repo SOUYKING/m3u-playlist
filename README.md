@@ -9,7 +9,7 @@ This repository contains an M3U playlist for IPTV channels. The playlist include
 ### How to Use
 
 1. Copy the M3U URL:
-   - Open the playlist file by clicking [here]([link-to-raw-m3u-file](https://souyking.github.io/m3u-playlist/iptv-m3u-08-11-2023(%D8%A3%D8%A8%D9%83%20IPTV).m3u)).
+   - Open the playlist file by clicking [here](link-to-raw-m3u-file](https://souyking.github.io/m3u-playlist/iptv-m3u-08-11-2023(%D8%A3%D8%A8%D9%83%20IPTV).m3u)).
    - Copy the URL from your browser.
 
 2. Use with IPTV Players:
